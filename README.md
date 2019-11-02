@@ -36,3 +36,7 @@ The project is created with:
 ## Future work
 
 There is much to be discovered in this area and we intend to look next at images of minerals under the microscope.
+
+## License
+
+This project is licensed under the terms of the MIT license. See the [LICENSE](LICENSE) file for license rights and limitations
