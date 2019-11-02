@@ -1,7 +1,7 @@
-# CocoaNet
+# MiNet
 > A convolutional neural network for identifying and categorizing hand specimen images of minerals
 
-<div align=center><img src="./data/cocoa.jpg"/></div>
+<div align=center><img src="./data/bornite.jpg"/></div>
 
 ## Table of Contents
 
