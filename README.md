@@ -26,6 +26,8 @@ A dataset of 952 hand specimen images of minerals were scraped from the internet
 * Pyrite
 * Quartz
 
+The dataset has been made available publicly and can be found on [Kaggle](https://www.kaggle.com/asiedubrempong/minerals-identification-dataset)
+
 ## Technologies
 
 The project is created with:
